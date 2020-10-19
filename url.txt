@@ -1,0 +1,15 @@
+{
+"workflowurl":"http://25.39.64.16:17003/flow/",
+"getBMUrl":"http://xmzt.sx.sgcc.com.cn/pcinfo/resUnicode/com.sgcc.pmp.res.unicode.ms.UnicodeMS/applyBasicCode.res"
+}正服山西正服
+
+{
+"workflowurl":"http://192.168.1.145:19988/flow/",
+"getBMUrl":"http://192.168.1.239:8100/pcinfo/resUnicode/com.sgcc.pmp.res.unicode.ms.UnicodeMS/applyBasicCode.res"
+}vpn
+
+ 
+{
+"workflowurl":"http://25.39.69.131:17003/flow/",
+"getBMUrl":"http://25.39.69.19/pcinfo/resUnicode/com.sgcc.pmp.res.unicode.ms.UnicodeMS/applyBasicCode.res"
+}山西测试服
